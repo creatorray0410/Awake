@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Build artifacts
+Awake/Awake.app/Contents/MacOS/Awake
+Awake/Awake.app/Contents/Resources/AppIcon.icns
+build/
+*.dmg
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
